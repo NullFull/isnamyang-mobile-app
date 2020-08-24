@@ -22,6 +22,6 @@ storeFile={경로}/isnamyang.jks
 아이폰의 경우에는 개발자 계정이 있다면 개발용 빌드는 빌드 및 테스트는 가능하나 릴리즈 빌드는 릴리즈 용 계정에 초대되어야 빌드가 가능합니다.
 
 ## 사용 오픈소스 라이브러리
-  barcode_scan: https://pub.dev/packages/barcode_scan
-  http: https://pub.dev/packages/http
-  permission_handler: https://pub.dev/packages/permission_handler
+  - barcode_scan: https://pub.dev/packages/barcode_scan
+  - http: https://pub.dev/packages/http
+  - permission_handler: https://pub.dev/packages/permission_handler
